@@ -13,7 +13,6 @@
 :nerd_face: Always `learning new things`
 
 
-
 ## 🔥 Streak Stats
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimiyan&theme=chartreuse-dark" alt="mystreak"/></p>
 

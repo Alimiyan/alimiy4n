@@ -12,14 +12,13 @@
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/drive/u/0/folders/12ebYk48915UlS7KltD5Cp5iEw0dNcmhe) for more details about me. I'm open to feedback and suggestions! \
 :nerd_face: Always `learning new things`
 
-<br>
+
 
 ## 🔥 Streak Stats
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimiyan&theme=chartreuse-dark" alt="mystreak"/></p>
 
 
 
-<br/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

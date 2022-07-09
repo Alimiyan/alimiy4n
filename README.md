@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Cyber security
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at alimiyan123@gmail.com! I'll try to respond as soon as I can.\
-:student: I'm currently studying Computer Science & Engineering at College of Engineering Munnar
+:student: I'm currently studying Computer Science & Engineering at College of Engineering Munnar. \
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/drive/u/0/folders/12ebYk48915UlS7KltD5Cp5iEw0dNcmhe) for more details about me. I'm open to feedback and suggestions!
 :nerd_face: Always `learning new things`
 

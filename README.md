@@ -3,6 +3,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=77FF24FF&lines=Computer+Science+Student;Competitive+Programmer;Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=Alimiyan&color=green)
+
 ##  :sassy_man:  About me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Cyber Security. \
@@ -42,4 +44,3 @@
 <a href="https://www.linkedin.com/in/alimiyan"><img src="https://img.shields.io/badge/-Alimiyan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:alimiyan123@gmail.com"><img src="https://img.shields.io/badge/-alimiyan123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-![](https://komarev.com/ghpvc/?username=https://github.com/Alimiyan&color=green)

@@ -6,11 +6,11 @@
 
 ##  :sassy_man:  About me
 💡 &nbsp; I'm passionate about exploring new technologies and developing innovative software solutions.\
-🌱 &nbsp;Currently, I'm deepening my knowledge in Cyber Security. \
+🌱 &nbsp; Currently, I'm deepening my knowledge in Cyber Security. \
 💬 &nbsp; I'm open to collaborating on projects and engaging in interesting discussions. Feel free to reach out!\
-✉️ &nbsp;You can email me at alimiyan123@gmail.com!. I'll try to respond as soon as possible.\
+✉️ &nbsp; You can email me at alimiyan123@gmail.com! I'll try to respond as soon as possible.\
 :student: Alumnus of College of Engineering Munnar, specialized in Computer Science & Engineering. \
-📄 &nbsp;Have a glance at my [Résumé](https://drive.google.com/file/d/16xdj7MsmKKJZk4bVeBAAIQBkgghT86e3/view?usp=sharing) for more about my experiences. I welcome feedback and suggestions!
+📄 &nbsp; Have a glance at my [Résumé](https://drive.google.com/file/d/16xdj7MsmKKJZk4bVeBAAIQBkgghT86e3/view?usp=sharing) for more about my experiences. I welcome feedback and suggestions!
 
 
 ## 🔥 Streak Stats

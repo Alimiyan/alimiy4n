@@ -5,12 +5,12 @@
 
 
 ##  :sassy_man:  About me
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Cyber Security. \
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at alimiyan123@gmail.com! I'll try to respond as soon as I can.\
-:student: I completed my education in Computer Science & Engineering at the College of Engineering Munnar. \
-📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/16xdj7MsmKKJZk4bVeBAAIQBkgghT86e3/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp; I'm passionate about exploring new technologies and developing innovative software solutions.\
+🌱 &nbsp;Currently, I'm deepening my knowledge in Cyber Security. \
+💬 &nbsp; I'm open to collaborating on projects and engaging in interesting discussions. Feel free to reach out!\
+✉️ &nbsp;You can email me at <your-email>. I'll try to respond as soon as possible.\
+:student: Alumnus of College of Engineering Munnar, specialized in Computer Science & Engineering. \
+📄 &nbsp;Have a glance at my [Résumé](https://drive.google.com/file/d/16xdj7MsmKKJZk4bVeBAAIQBkgghT86e3/view?usp=sharing) for more about my experiences. I welcome feedback and suggestions!
 
 
 ## 🔥 Streak Stats
